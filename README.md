@@ -19,6 +19,10 @@ To get a local copy up and running follow these simple example steps.
 - Clone this repository.
 - Navigate to the project folder (Library) and open the `index.html` with the browser.
 
+## Live Demo
+
+<a href= "https://naqhid.github.io/Library/" target="_blank">Live version</a>
+
 ## Authors
 
 Feel free to reach out. We are always happy to connect :slightly_smiling_face:
