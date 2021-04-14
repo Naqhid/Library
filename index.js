@@ -46,7 +46,7 @@ const addBookDom = (book)=>{
     ppages.textContent = book.pages;
     divbook.appendChild(ppages);
 
-    // <button> read status.
+    // <button> read status
     const readButton = document.createElement('button');
     readButton.textContent = book.status;
     readButton.classList.add('btn');
